@@ -1,0 +1,5 @@
+maslowsagent.egg-info
+.vscode/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
