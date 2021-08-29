@@ -3,6 +3,7 @@ import time
 
 from maslowsagent.needs import Need
 from maslowsagent.agent import Agent
+from maslowsagent import game_utils
 
 class Game():
     '''
