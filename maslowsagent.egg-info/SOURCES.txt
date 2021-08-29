@@ -1,6 +1,0 @@
-README.md
-setup.py
-maslowsagent.egg-info/PKG-INFO
-maslowsagent.egg-info/SOURCES.txt
-maslowsagent.egg-info/dependency_links.txt
-maslowsagent.egg-info/top_level.txt
